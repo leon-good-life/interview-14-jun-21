@@ -1,4 +1,4 @@
-const API_URL = 'http://www.omdbapi.com/?apikey=1498909b';
+const API_URL = `${window.location.protocol}//www.omdbapi.com/?apikey=1498909b`;
 
 export const fetchMovies = (movieName) =>
   new Promise((resolve, reject) => {

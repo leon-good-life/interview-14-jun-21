@@ -8,3 +8,7 @@ It is okay to mutate the state in `useReducer` when using `redux-toolkit` librar
 3. Instead of passing props `<Comp a={a} b={b} c={c} />`, destructering is used: `<Comp {...{a, b, c}} />`.
 
 4. `styled-components` is used to write CSS and SCSS.
+
+5. Here is a demo video: https://www.loom.com/share/69dc9d306759421ea7a6d81bed256a5cHere
+
+6. Here is the link to live demo hosted on AWS: https://main.d2vtnchmuqq1m7.amplifyapp.com/
